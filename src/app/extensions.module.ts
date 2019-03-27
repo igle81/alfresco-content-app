@@ -6,9 +6,6 @@ import { MyExtensionModule } from 'my-extension';
 // For any application-specific code use CoreExtensionsModule instead.
 
 @NgModule({
-  imports: [
-	AosExtensionModule,
-	MyExtensionModule
-	]
+  imports: [AosExtensionModule, MyExtensionModule]
 })
 export class AppExtensionsModule {}

@@ -7,7 +7,8 @@
   "$license": "LGPL-3.0",
   "$runtime": "1.7.0",
   "$description": "Core application extensions and features",
-  "$references": ["aos.plugin.json"],
+  "$references": ["aos.plugin.json",
+  "my-extension.json"],
 
   "rules": [
     {

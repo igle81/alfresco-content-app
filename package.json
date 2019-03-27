@@ -65,6 +65,7 @@
     "minimatch-browser": "^1.0.0",
     "moment": "^2.24.0",
     "moment-es6": "1.0.0",
+    "my-extension": "file:../aca-extension-example/dist/my-extension/my-extension-0.0.1.tgz",
     "pdfjs-dist": "^2.0.489",
     "rxjs": "^6.4.0",
     "zone.js": "0.8.29"
